@@ -77,7 +77,7 @@ async function submitRating(jokeKey, rating) {
 async function showNewJoke() {
     currentJoke = getRandomJoke();
     questionEl.textContent = currentJoke.question;
-    answerEl.textContent = currentJoke.answer;
+    answerEl.textContent = ''; // Clear answer text
     answerEl.classList.remove('show');
     ratingSection.classList.remove('show');
     answerRevealed = false;
@@ -95,6 +95,7 @@ async function showNewJoke() {
 // Reveal the answer
 async function revealAnswer() {
     if (!answerRevealed) {
+        answerEl.textContent = currentJoke.answer; // Set answer text when revealing
         answerEl.classList.add('show');
         ratingSection.classList.add('show');
         answerRevealed = true;
