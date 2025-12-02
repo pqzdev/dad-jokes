@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dad Jokes - Prepare to Groan!</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bangers&family=Comic+Neue:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1 class="title">Dad Jokes</h1>
+            <p class="subtitle">Warning: Eye-rolling guaranteed!</p>
+        </header>
+
+        <div class="joke-card">
+            <div class="joke-content">
+                <p class="question" id="question">Click the button to get a dad joke!</p>
+                <div class="answer-section" id="answer-section">
+                    <p class="answer" id="answer"></p>
+                </div>
+            </div>
+        </div>
+
+        <div class="button-container">
+            <button class="btn btn-reveal" id="reveal-btn">Show Answer</button>
+            <button class="btn btn-new" id="new-joke-btn">New Joke</button>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

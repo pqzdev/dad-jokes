@@ -1,0 +1,2186 @@
+[
+  {
+    "question": "Why don't scientists trust atoms?",
+    "answer": "Because they make up everything!"
+  },
+  {
+    "question": "What do you call a fake noodle?",
+    "answer": "An impasta!"
+  },
+  {
+    "question": "Why did the scarecrow win an award?",
+    "answer": "Because he was outstanding in his field!"
+  },
+  {
+    "question": "Why don't eggs tell jokes?",
+    "answer": "They'd crack each other up!"
+  },
+  {
+    "question": "What do you call a bear with no teeth?",
+    "answer": "A gummy bear!"
+  },
+  {
+    "question": "Why did the bicycle fall over?",
+    "answer": "Because it was two-tired!"
+  },
+  {
+    "question": "What do you call cheese that isn't yours?",
+    "answer": "Nacho cheese!"
+  },
+  {
+    "question": "What did the ocean say to the beach?",
+    "answer": "Nothing, it just waved!"
+  },
+  {
+    "question": "Why did the math book look so sad?",
+    "answer": "Because it had too many problems!"
+  },
+  {
+    "question": "What do you call a pile of cats?",
+    "answer": "A meowtain!"
+  },
+  {
+    "question": "Why don't skeletons fight each other?",
+    "answer": "They don't have the guts!"
+  },
+  {
+    "question": "What did one wall say to the other wall?",
+    "answer": "I'll meet you at the corner!"
+  },
+  {
+    "question": "Why did the cookie go to the doctor?",
+    "answer": "Because it felt crumbly!"
+  },
+  {
+    "question": "What do you call a dinosaur that crashes his car?",
+    "answer": "Tyrannosaurus Wrecks!"
+  },
+  {
+    "question": "Why can't you hear a pterodactyl go to the bathroom?",
+    "answer": "Because the 'P' is silent!"
+  },
+  {
+    "question": "What do you call a sleeping bull?",
+    "answer": "A bulldozer!"
+  },
+  {
+    "question": "Why did the coffee file a police report?",
+    "answer": "It got mugged!"
+  },
+  {
+    "question": "What do you call a fish wearing a bowtie?",
+    "answer": "Sofishticated!"
+  },
+  {
+    "question": "Why don't oysters donate to charity?",
+    "answer": "Because they're shellfish!"
+  },
+  {
+    "question": "What do you call a belt made of watches?",
+    "answer": "A waist of time!"
+  },
+  {
+    "question": "Why did the golfer bring two pairs of pants?",
+    "answer": "In case he got a hole in one!"
+  },
+  {
+    "question": "What did the janitor say when he jumped out of the closet?",
+    "answer": "Supplies!"
+  },
+  {
+    "question": "Why don't ants get sick?",
+    "answer": "Because they have little anty-bodies!"
+  },
+  {
+    "question": "What do you call a can opener that doesn't work?",
+    "answer": "A can't opener!"
+  },
+  {
+    "question": "Why did the tomato turn red?",
+    "answer": "Because it saw the salad dressing!"
+  },
+  {
+    "question": "What do you call a snowman with a six-pack?",
+    "answer": "An abdominal snowman!"
+  },
+  {
+    "question": "Why did the stadium get hot after the game?",
+    "answer": "All the fans left!"
+  },
+  {
+    "question": "What do you call a parade of rabbits hopping backwards?",
+    "answer": "A receding hare-line!"
+  },
+  {
+    "question": "Why don't vampires go to barbecues?",
+    "answer": "They don't like stakes!"
+  },
+  {
+    "question": "What do you call a factory that makes okay products?",
+    "answer": "A satisfactory!"
+  },
+  {
+    "question": "Why did the invisible man turn down the job offer?",
+    "answer": "He couldn't see himself doing it!"
+  },
+  {
+    "question": "What do you call a group of disorganized cats?",
+    "answer": "A cat-astrophe!"
+  },
+  {
+    "question": "Why don't seagulls fly over the bay?",
+    "answer": "Because then they'd be bagels!"
+  },
+  {
+    "question": "What do you call a cow with no legs?",
+    "answer": "Ground beef!"
+  },
+  {
+    "question": "Why did the computer go to the doctor?",
+    "answer": "Because it had a virus!"
+  },
+  {
+    "question": "What do you call a musician with problems?",
+    "answer": "A trebled man!"
+  },
+  {
+    "question": "Why don't melons get married?",
+    "answer": "Because they cantaloupe!"
+  },
+  {
+    "question": "What do you call a pig that does karate?",
+    "answer": "A pork chop!"
+  },
+  {
+    "question": "Why did the picture go to jail?",
+    "answer": "Because it was framed!"
+  },
+  {
+    "question": "What do you call an alligator in a vest?",
+    "answer": "An investigator!"
+  },
+  {
+    "question": "Why don't crabs give to charity?",
+    "answer": "Because they're shellfish!"
+  },
+  {
+    "question": "What do you call a dog magician?",
+    "answer": "A labracadabrador!"
+  },
+  {
+    "question": "Why did the chicken go to the séance?",
+    "answer": "To get to the other side!"
+  },
+  {
+    "question": "What do you call a boomerang that won't come back?",
+    "answer": "A stick!"
+  },
+  {
+    "question": "Why don't calendars ever win arguments?",
+    "answer": "Their days are numbered!"
+  },
+  {
+    "question": "What do you call a shoe made from a banana?",
+    "answer": "A slipper!"
+  },
+  {
+    "question": "Why did the mushroom go to the party?",
+    "answer": "Because he was a fungi!"
+  },
+  {
+    "question": "What do you call a sleeping T-Rex?",
+    "answer": "A dino-snore!"
+  },
+  {
+    "question": "Why don't scientists trust stairs?",
+    "answer": "Because they're always up to something!"
+  },
+  {
+    "question": "Why did the frog take the bus to work?",
+    "answer": "His car got toad away!"
+  },
+  {
+    "question": "What do you call a lazy kangaroo?",
+    "answer": "A pouch potato!"
+  },
+  {
+    "question": "Why don't mountains ever get cold?",
+    "answer": "They wear snow caps!"
+  },
+  {
+    "question": "What do you call a sheep with no legs?",
+    "answer": "A cloud!"
+  },
+  {
+    "question": "Why did the orange stop?",
+    "answer": "It ran out of juice!"
+  },
+  {
+    "question": "What do you call a deer with no eyes?",
+    "answer": "No idea!"
+  },
+  {
+    "question": "Why don't fish play basketball?",
+    "answer": "They're afraid of the net!"
+  },
+  {
+    "question": "What do you call a cow during an earthquake?",
+    "answer": "A milkshake!"
+  },
+  {
+    "question": "Why did the banana go to the doctor?",
+    "answer": "It wasn't peeling well!"
+  },
+  {
+    "question": "Why don't elephants use computers?",
+    "answer": "They're afraid of the mouse!"
+  },
+  {
+    "question": "What do you call a train loaded with toffee?",
+    "answer": "A chew chew train!"
+  },
+  {
+    "question": "Why did the clock go to the principal's office?",
+    "answer": "For tocking too much!"
+  },
+  {
+    "question": "What do you call a bear in the rain?",
+    "answer": "A drizzly bear!"
+  },
+  {
+    "question": "Why don't pencils ever go on vacation?",
+    "answer": "They always need to be sharp!"
+  },
+  {
+    "question": "What do you call a bee that lives in America?",
+    "answer": "A USB!"
+  },
+  {
+    "question": "Why did the gym close down?",
+    "answer": "It just didn't work out!"
+  },
+  {
+    "question": "What do you call a dinosaur with an extensive vocabulary?",
+    "answer": "A thesaurus!"
+  },
+  {
+    "question": "Why don't ghosts like rain?",
+    "answer": "It dampens their spirits!"
+  },
+  {
+    "question": "What do you call a potato wearing glasses?",
+    "answer": "A spectater!"
+  },
+  {
+    "question": "Why did the phone wear glasses?",
+    "answer": "It lost its contacts!"
+  },
+  {
+    "question": "What do you call a duck that gets all A's?",
+    "answer": "A wise quacker!"
+  },
+  {
+    "question": "Why don't pirates take a shower before walking the plank?",
+    "answer": "They'll just wash up on shore later!"
+  },
+  {
+    "question": "What do you call a rabbit with fleas?",
+    "answer": "Bugs Bunny!"
+  },
+  {
+    "question": "Why did the carpenter fall asleep on the job?",
+    "answer": "He was board!"
+  },
+  {
+    "question": "What do you call a snake that works for the government?",
+    "answer": "A civil serpent!"
+  },
+  {
+    "question": "Why don't teddy bears ever eat dessert?",
+    "answer": "They're always stuffed!"
+  },
+  {
+    "question": "What do you call a pony with a sore throat?",
+    "answer": "A little horse!"
+  },
+  {
+    "question": "Why did the kid throw his clock out the window?",
+    "answer": "He wanted to see time fly!"
+  },
+  {
+    "question": "What do you call a sad coffee?",
+    "answer": "A depresso!"
+  },
+  {
+    "question": "Why don't balloons go to college?",
+    "answer": "They're afraid they might pop quiz!"
+  },
+  {
+    "question": "What do you call a chicken staring at lettuce?",
+    "answer": "Chicken sees a salad!"
+  },
+  {
+    "question": "Why did the yogurt go to the art exhibition?",
+    "answer": "Because it was cultured!"
+  },
+  {
+    "question": "What do you call a cow that plays guitar?",
+    "answer": "A moo-sician!"
+  },
+  {
+    "question": "Why don't trees use computers?",
+    "answer": "They prefer to log in naturally!"
+  },
+  {
+    "question": "What do you call a snobbish criminal going downstairs?",
+    "answer": "A condescending con descending!"
+  },
+  {
+    "question": "Why did the student eat his homework?",
+    "answer": "Because the teacher said it was a piece of cake!"
+  },
+  {
+    "question": "What do you call a psychic midget who escaped from prison?",
+    "answer": "A small medium at large!"
+  },
+  {
+    "question": "Why don't bees have sticky hair?",
+    "answer": "Because they use honeycombs!"
+  },
+  {
+    "question": "What do you call a grizzly with no teeth?",
+    "answer": "A gummy bear!"
+  },
+  {
+    "question": "Why did the scarecrow become a successful neurosurgeon?",
+    "answer": "He was outstanding in his field!"
+  },
+  {
+    "question": "What do you call a priest that becomes a lawyer?",
+    "answer": "A father-in-law!"
+  },
+  {
+    "question": "Why don't eggs go to school?",
+    "answer": "They might crack under the pressure!"
+  },
+  {
+    "question": "What do you call a line of rabbits walking backwards?",
+    "answer": "A receding hare line!"
+  },
+  {
+    "question": "Why did the melon jump into the lake?",
+    "answer": "It wanted to be a water-melon!"
+  },
+  {
+    "question": "What do you call a bee that can't make up its mind?",
+    "answer": "A maybe!"
+  },
+  {
+    "question": "Why don't lobsters share?",
+    "answer": "Because they're too shellfish!"
+  },
+  {
+    "question": "What do you call a fish with no eyes?",
+    "answer": "Fsh!"
+  },
+  {
+    "question": "Why did the cookie cry?",
+    "answer": "Because his mother was a wafer so long!"
+  },
+  {
+    "question": "What do you call a factory that sells passable products?",
+    "answer": "A satisfactory!"
+  },
+  {
+    "question": "Why did the hipster burn his mouth?",
+    "answer": "He drank his coffee before it was cool!"
+  },
+  {
+    "question": "What do you call a dog that can do magic tricks?",
+    "answer": "A labracadabrador!"
+  },
+  {
+    "question": "Why don't oysters share their pearls?",
+    "answer": "Because they're shellfish!"
+  },
+  {
+    "question": "What do you call an elephant that doesn't matter?",
+    "answer": "An irrelephant!"
+  },
+  {
+    "question": "Why did the math teacher break up with the calculator?",
+    "answer": "She felt he was just using her!"
+  },
+  {
+    "question": "What do you call a sleeping pizza?",
+    "answer": "A piZZZa!"
+  },
+  {
+    "question": "Why don't basketball players go on vacation?",
+    "answer": "They'd get called for traveling!"
+  },
+  {
+    "question": "What do you call a pile of kittens?",
+    "answer": "A meowntain!"
+  },
+  {
+    "question": "Why did the golfer wear two pairs of socks?",
+    "answer": "In case he got a hole in one!"
+  },
+  {
+    "question": "What do you call a nervous javelin thrower?",
+    "answer": "Shakespeare!"
+  },
+  {
+    "question": "Why can't a nose be 12 inches long?",
+    "answer": "Because then it would be a foot!"
+  },
+  {
+    "question": "What do you call a monkey in a minefield?",
+    "answer": "A baboom!"
+  },
+  {
+    "question": "Why did the stadium get so hot?",
+    "answer": "All the fans left!"
+  },
+  {
+    "question": "What do you call a fish wearing a crown?",
+    "answer": "A king fish!"
+  },
+  {
+    "question": "Why did the bicycle collapse?",
+    "answer": "It was two tired!"
+  },
+  {
+    "question": "What do you call a fake stone?",
+    "answer": "A shamrock!"
+  },
+  {
+    "question": "Why did the man put his money in the freezer?",
+    "answer": "He wanted cold hard cash!"
+  },
+  {
+    "question": "What do you call a belt with a watch attached?",
+    "answer": "A waist of time!"
+  },
+  {
+    "question": "Why did the tomato blush?",
+    "answer": "Because it saw the salad dressing!"
+  },
+  {
+    "question": "What do you call a can opener that broke?",
+    "answer": "A can't opener!"
+  },
+  {
+    "question": "Why did the scarecrow get promoted?",
+    "answer": "He was outstanding in his field!"
+  },
+  {
+    "question": "What do you call a bear caught in the rain?",
+    "answer": "A drizzly bear!"
+  },
+  {
+    "question": "Why don't eggs tell each other jokes?",
+    "answer": "They'd crack up!"
+  },
+  {
+    "question": "What do you call a sleeping dinosaur?",
+    "answer": "A dino-snore!"
+  },
+  {
+    "question": "Why did the photon check into a hotel?",
+    "answer": "It was traveling light!"
+  },
+  {
+    "question": "What do you call a shoe made of a banana?",
+    "answer": "A slipper!"
+  },
+  {
+    "question": "Why did the computer get glasses?",
+    "answer": "To improve its website!"
+  },
+  {
+    "question": "What do you call a row of rabbits hopping backward?",
+    "answer": "A receding hare line!"
+  },
+  {
+    "question": "Why don't skeletons ever go trick or treating?",
+    "answer": "They have no body to go with!"
+  },
+  {
+    "question": "What do you call a dog in the summer?",
+    "answer": "A hot dog!"
+  },
+  {
+    "question": "Why did the crab never share?",
+    "answer": "Because he's shellfish!"
+  },
+  {
+    "question": "What do you call a snowman in July?",
+    "answer": "A puddle!"
+  },
+  {
+    "question": "Why did the man fall down the well?",
+    "answer": "Because he couldn't see that well!"
+  },
+  {
+    "question": "What do you call a bear with no socks?",
+    "answer": "Barefoot!"
+  },
+  {
+    "question": "Why don't scientists trust atoms anymore?",
+    "answer": "They make up everything!"
+  },
+  {
+    "question": "What do you call a talking turtle?",
+    "answer": "A shell phone!"
+  },
+  {
+    "question": "Why did the burglar take a bath?",
+    "answer": "He wanted to make a clean getaway!"
+  },
+  {
+    "question": "What do you call a fancy fish?",
+    "answer": "Sofishticated!"
+  },
+  {
+    "question": "Why did the cookie go to the nurse?",
+    "answer": "Because he felt crummy!"
+  },
+  {
+    "question": "What do you call a dinosaur with one eye?",
+    "answer": "A do-you-think-he-saurus!"
+  },
+  {
+    "question": "Why did the kid bring a ladder to school?",
+    "answer": "Because she wanted to go to high school!"
+  },
+  {
+    "question": "What do you call a pig that knows karate?",
+    "answer": "A pork chop!"
+  },
+  {
+    "question": "Why did the coffee go to the police?",
+    "answer": "To report a mugging!"
+  },
+  {
+    "question": "What do you call a dinosaur that's sleeping?",
+    "answer": "A dino-snore!"
+  },
+  {
+    "question": "Why did the golfer bring an extra pair of pants?",
+    "answer": "In case he got a hole in one!"
+  },
+  {
+    "question": "What do you call a bear stuck in the rain?",
+    "answer": "A drizzly bear!"
+  },
+  {
+    "question": "Why did the picture go to jail?",
+    "answer": "Because it was framed!"
+  },
+  {
+    "question": "What do you call a train carrying bubble gum?",
+    "answer": "A chew-chew train!"
+  },
+  {
+    "question": "Why did the teacher wear sunglasses?",
+    "answer": "Because her students were so bright!"
+  },
+  {
+    "question": "What do you call a sleeping bull?",
+    "answer": "A bulldozer!"
+  },
+  {
+    "question": "Why did the man put sugar under his pillow?",
+    "answer": "To have sweet dreams!"
+  },
+  {
+    "question": "What do you call a deer with no eyes?",
+    "answer": "No-eye-deer!"
+  },
+  {
+    "question": "Why did the banker quit his job?",
+    "answer": "He lost interest!"
+  },
+  {
+    "question": "What do you call a snake that's 3.14 meters long?",
+    "answer": "A pi-thon!"
+  },
+  {
+    "question": "Why did the robber take a bath before his heist?",
+    "answer": "He wanted to make a clean getaway!"
+  },
+  {
+    "question": "What do you call a chicken looking at lettuce?",
+    "answer": "A chicken sees a salad!"
+  },
+  {
+    "question": "Why did the belt go to jail?",
+    "answer": "For holding up a pair of pants!"
+  },
+  {
+    "question": "What do you call a cat that bowls?",
+    "answer": "An alley cat!"
+  },
+  {
+    "question": "Why did the tree go to the dentist?",
+    "answer": "To get a root canal!"
+  },
+  {
+    "question": "What do you call a mosquito on vacation?",
+    "answer": "An itch hiker!"
+  },
+  {
+    "question": "Why did the house go to the doctor?",
+    "answer": "It had window panes!"
+  },
+  {
+    "question": "What do you call a dinosaur fart?",
+    "answer": "A blast from the past!"
+  },
+  {
+    "question": "Why did the man run around his bed?",
+    "answer": "To catch up on his sleep!"
+  },
+  {
+    "question": "What do you call a parade of rabbits hopping backwards?",
+    "answer": "A receding hare-line!"
+  },
+  {
+    "question": "Why did the bicycle stand on its own?",
+    "answer": "Because it was two-tired to fall over!"
+  },
+  {
+    "question": "What do you call a boomerang that doesn't work?",
+    "answer": "A stick!"
+  },
+  {
+    "question": "Why did the smartphone need glasses?",
+    "answer": "It lost all its contacts!"
+  },
+  {
+    "question": "What do you call a magic owl?",
+    "answer": "Hoo-dini!"
+  },
+  {
+    "question": "Why did the scarecrow win a Nobel Prize?",
+    "answer": "Because he was out standing in his field!"
+  },
+  {
+    "question": "What do you call a sheep covered in chocolate?",
+    "answer": "A candy baa!"
+  },
+  {
+    "question": "Why did the tomato turn green?",
+    "answer": "It was embarrassed it forgot to change!"
+  },
+  {
+    "question": "What do you call a fish that practices medicine?",
+    "answer": "A sturgeon!"
+  },
+  {
+    "question": "Why did the moon skip dinner?",
+    "answer": "Because it was full!"
+  },
+  {
+    "question": "What do you call a sleeping cat?",
+    "answer": "A cat nap!"
+  },
+  {
+    "question": "Why did the math book commit suicide?",
+    "answer": "It had too many problems!"
+  },
+  {
+    "question": "What do you call a zombie who writes music?",
+    "answer": "A decomposer!"
+  },
+  {
+    "question": "Why did the calendar get in trouble?",
+    "answer": "Its days were numbered!"
+  },
+  {
+    "question": "What do you call a cow with two legs?",
+    "answer": "Lean beef!"
+  },
+  {
+    "question": "Why did the barber win the race?",
+    "answer": "He knew a shortcut!"
+  },
+  {
+    "question": "What do you call a deer that costs a dollar?",
+    "answer": "A buck!"
+  },
+  {
+    "question": "Why did the student bring scissors to class?",
+    "answer": "To cut class!"
+  },
+  {
+    "question": "What do you call a cat that lives on the beach?",
+    "answer": "Sandy Claws!"
+  },
+  {
+    "question": "Why did the grape stop in the middle of the road?",
+    "answer": "Because it ran out of juice!"
+  },
+  {
+    "question": "What do you call a monkey that loves potato chips?",
+    "answer": "A chipmonk!"
+  },
+  {
+    "question": "Why did the man name his dogs Rolex and Timex?",
+    "answer": "Because they were watch dogs!"
+  },
+  {
+    "question": "What do you call a T-Rex that sells guns?",
+    "answer": "A small arms dealer!"
+  },
+  {
+    "question": "Why did the duck go to rehab?",
+    "answer": "Because he was a quack addict!"
+  },
+  {
+    "question": "What do you call a cow that just gave birth?",
+    "answer": "De-calf-inated!"
+  },
+  {
+    "question": "Why did the chicken join a band?",
+    "answer": "Because it had drumsticks!"
+  },
+  {
+    "question": "What do you call a rabbit who tells jokes?",
+    "answer": "A funny bunny!"
+  },
+  {
+    "question": "Why did the yogurt go to the museum?",
+    "answer": "Because it was cultured!"
+  },
+  {
+    "question": "What do you call a tooth in a glass of water?",
+    "answer": "A one molar solution!"
+  },
+  {
+    "question": "Why did the man get hit by a bike every day?",
+    "answer": "He was stuck in a vicious cycle!"
+  },
+  {
+    "question": "What do you call a parade of llamas?",
+    "answer": "Alpacalypse!"
+  },
+  {
+    "question": "Why did the lettuce blush?",
+    "answer": "It saw the salad dressing!"
+  },
+  {
+    "question": "What do you call a penguin in the desert?",
+    "answer": "Lost!"
+  },
+  {
+    "question": "Why did the cookie go to the hospital?",
+    "answer": "He felt crumbly!"
+  },
+  {
+    "question": "What do you call a fly without wings?",
+    "answer": "A walk!"
+  },
+  {
+    "question": "Why did the leaf go to the doctor?",
+    "answer": "It was feeling green!"
+  },
+  {
+    "question": "What do you call a mountain that's funny?",
+    "answer": "Hill-arious!"
+  },
+  {
+    "question": "Why did the stadium get hot?",
+    "answer": "Because all the fans left!"
+  },
+  {
+    "question": "What do you call a Spanish speaking sheep?",
+    "answer": "Olé!"
+  },
+  {
+    "question": "Why did the kid throw butter out the window?",
+    "answer": "To see a butterfly!"
+  },
+  {
+    "question": "What do you call a snowman with abs?",
+    "answer": "The abdominal snowman!"
+  },
+  {
+    "question": "Why did the mathematician spill all his food?",
+    "answer": "He had pi problems!"
+  },
+  {
+    "question": "What do you call a belt made out of watches?",
+    "answer": "A waist of time!"
+  },
+  {
+    "question": "Why did the thermometer go to college?",
+    "answer": "To get more degrees!"
+  },
+  {
+    "question": "What do you call a polite and friendly weapon?",
+    "answer": "A kind-ness!"
+  },
+  {
+    "question": "Why did the skeleton go to the party alone?",
+    "answer": "He had no body to go with him!"
+  },
+  {
+    "question": "What do you call a fake spaghetti?",
+    "answer": "An im-pasta!"
+  },
+  {
+    "question": "Why did the orange go to the doctor?",
+    "answer": "It wasn't peeling well!"
+  },
+  {
+    "question": "What do you call a computer that sings?",
+    "answer": "A Dell!"
+  },
+  {
+    "question": "Why did the bicycle fall asleep?",
+    "answer": "Because it was two tired!"
+  },
+  {
+    "question": "What do you call a nervous javelin?",
+    "answer": "Shakespeare!"
+  },
+  {
+    "question": "Why did the golfer change his socks?",
+    "answer": "He got a hole in one!"
+  },
+  {
+    "question": "What do you call a lion at the North Pole?",
+    "answer": "Lost!"
+  },
+  {
+    "question": "Why did the man stare at the can of orange juice?",
+    "answer": "Because it said 'concentrate'!"
+  },
+  {
+    "question": "What do you call a fish that's good at basketball?",
+    "answer": "A slam dunk!"
+  },
+  {
+    "question": "Why did the melon jump in the pool?",
+    "answer": "It wanted to be a watermelon!"
+  },
+  {
+    "question": "What do you call a snowman party?",
+    "answer": "A snowball!"
+  },
+  {
+    "question": "Why did the banana go to the beauty salon?",
+    "answer": "Because it had split ends!"
+  },
+  {
+    "question": "What do you call a factory that makes good products?",
+    "answer": "A satisfactory!"
+  },
+  {
+    "question": "Why did the toilet paper roll down the hill?",
+    "answer": "To get to the bottom!"
+  },
+  {
+    "question": "What do you call a nose that's 12 inches long?",
+    "answer": "A foot!"
+  },
+  {
+    "question": "Why did the coffee file a police report?",
+    "answer": "It got mugged!"
+  },
+  {
+    "question": "What do you call a cow that eats grass?",
+    "answer": "A lawn moo-er!"
+  },
+  {
+    "question": "Why did the piano get locked out?",
+    "answer": "Because the keys were inside!"
+  },
+  {
+    "question": "What do you call a sad strawberry?",
+    "answer": "A blueberry!"
+  },
+  {
+    "question": "Why did the man get fired from the calendar factory?",
+    "answer": "He took a day off!"
+  },
+  {
+    "question": "What do you call a bear that's stuck in traffic?",
+    "answer": "A gummy bear!"
+  },
+  {
+    "question": "Why did the farmer ride his horse to town?",
+    "answer": "Because it was too heavy to carry!"
+  },
+  {
+    "question": "What do you call an underwater spy?",
+    "answer": "James Pond!"
+  },
+  {
+    "question": "Why did the tomato refuse to race?",
+    "answer": "It couldn't ketchup!"
+  },
+  {
+    "question": "What do you call a camel with three humps?",
+    "answer": "Pregnant!"
+  },
+  {
+    "question": "Why did the rope go to school?",
+    "answer": "To get tied up in its studies!"
+  },
+  {
+    "question": "What do you call a turtle that flies?",
+    "answer": "A shell-icopter!"
+  },
+  {
+    "question": "Why did the clock get kicked out of class?",
+    "answer": "It tocked too much!"
+  },
+  {
+    "question": "What do you call a bear without ears?",
+    "answer": "B!"
+  },
+  {
+    "question": "Why did the baker stop making donuts?",
+    "answer": "He was tired of the hole business!"
+  },
+  {
+    "question": "What do you call a happy cowboy?",
+    "answer": "A jolly rancher!"
+  },
+  {
+    "question": "Why did the drum take a nap?",
+    "answer": "It was beat!"
+  },
+  {
+    "question": "What do you call a fake diamond?",
+    "answer": "A sham rock!"
+  },
+  {
+    "question": "Why did the donut go to the dentist?",
+    "answer": "It needed a chocolate filling!"
+  },
+  {
+    "question": "What do you call a group of musical whales?",
+    "answer": "An orca-stra!"
+  },
+  {
+    "question": "Why did the baseball team go to the bank?",
+    "answer": "To get their quarter back!"
+  },
+  {
+    "question": "What do you call a sleeping bag for dinosaurs?",
+    "answer": "A dino-snore!"
+  },
+  {
+    "question": "Why did the scarecrow become a therapist?",
+    "answer": "He was outstanding in his field!"
+  },
+  {
+    "question": "What do you call cheese that doesn't belong to you?",
+    "answer": "Nacho cheese!"
+  },
+  {
+    "question": "Why did the chicken cross the playground?",
+    "answer": "To get to the other slide!"
+  },
+  {
+    "question": "What do you call a fish that wears a bow tie?",
+    "answer": "So-fish-ticated!"
+  },
+  {
+    "question": "Why did the skeleton go to the barbecue?",
+    "answer": "To get some spare ribs!"
+  },
+  {
+    "question": "What do you call a group of crows?",
+    "answer": "A murder of crows!"
+  },
+  {
+    "question": "Why did the balloon go near the needle?",
+    "answer": "It wanted to be a pop star!"
+  },
+  {
+    "question": "What do you call a dog that's been left out in the cold?",
+    "answer": "A chili dog!"
+  },
+  {
+    "question": "Why did the apple stop running?",
+    "answer": "It ran out of juice!"
+  },
+  {
+    "question": "What do you call a bird that's afraid of heights?",
+    "answer": "Chicken!"
+  },
+  {
+    "question": "Why did the baker call the police?",
+    "answer": "Someone stole his dough!"
+  },
+  {
+    "question": "What do you call a sleeping kangaroo?",
+    "answer": "A pouch potato!"
+  },
+  {
+    "question": "Why did the mushroom get invited to parties?",
+    "answer": "Because he was a fungi!"
+  },
+  {
+    "question": "What do you call a horse that lives next door?",
+    "answer": "A neigh-bor!"
+  },
+  {
+    "question": "Why did the man bring string to the bar?",
+    "answer": "To tie one on!"
+  },
+  {
+    "question": "What do you call a gorilla wearing earmuffs?",
+    "answer": "Anything you want, it can't hear you!"
+  },
+  {
+    "question": "Why did the robot go on summer vacation?",
+    "answer": "To recharge his batteries!"
+  },
+  {
+    "question": "What do you call a dinosaur with bad vision?",
+    "answer": "A Do-you-think-he-saurus!"
+  },
+  {
+    "question": "Why did the tomato go on a date with the prune?",
+    "answer": "Because he couldn't find a date!"
+  },
+  {
+    "question": "What do you call a sheep that's always quiet?",
+    "answer": "A shhh-eep!"
+  },
+  {
+    "question": "Why did the pirate go to school?",
+    "answer": "To improve his arrrr-ticulation!"
+  },
+  {
+    "question": "What do you call a pile of frogs?",
+    "answer": "A toad-al mess!"
+  },
+  {
+    "question": "Why did the invisible man turn down the job?",
+    "answer": "He couldn't see himself doing it!"
+  },
+  {
+    "question": "What do you call a dog in the winter?",
+    "answer": "A chili dog!"
+  },
+  {
+    "question": "Why did the golfer cry?",
+    "answer": "He was a bawl player!"
+  },
+  {
+    "question": "What do you call a dinosaur that loves to sleep?",
+    "answer": "A stega-snore-us!"
+  },
+  {
+    "question": "Why did the computer go to art school?",
+    "answer": "To learn to draw windows!"
+  },
+  {
+    "question": "What do you call a cow in an earthquake?",
+    "answer": "A milkshake!"
+  },
+  {
+    "question": "Why did the baby strawberry cry?",
+    "answer": "Because his mom was in a jam!"
+  },
+  {
+    "question": "What do you call a laughing motorcycle?",
+    "answer": "A Yamahahaha!"
+  },
+  {
+    "question": "Why did the student throw his watch out the window?",
+    "answer": "He wanted to see time fly!"
+  },
+  {
+    "question": "What do you call a bear with extreme mood swings?",
+    "answer": "Bi-polar bear!"
+  },
+  {
+    "question": "Why did the cookie cry?",
+    "answer": "Because his father was a wafer so long!"
+  },
+  {
+    "question": "What do you call a sleeping pizza?",
+    "answer": "Pizzzzzzza!"
+  },
+  {
+    "question": "Why did the skeleton not go to prom?",
+    "answer": "He had no body to go with!"
+  },
+  {
+    "question": "What do you call a snail on a ship?",
+    "answer": "A snailor!"
+  },
+  {
+    "question": "Why did the duck get arrested?",
+    "answer": "For selling quack!"
+  },
+  {
+    "question": "What do you call a crate of ducks?",
+    "answer": "A box of quackers!"
+  },
+  {
+    "question": "Why did the stop sign get run over?",
+    "answer": "Because it was too controlling!"
+  },
+  {
+    "question": "What do you call a cat that's in trouble?",
+    "answer": "A scaredy cat!"
+  },
+  {
+    "question": "Why did the book join the police?",
+    "answer": "It wanted to go undercover!"
+  },
+  {
+    "question": "What do you call a person who's afraid of Santa?",
+    "answer": "Claustrophobic!"
+  },
+  {
+    "question": "Why did the banana split?",
+    "answer": "Because it saw the ice cream sundae!"
+  },
+  {
+    "question": "What do you call a belt made of dollars?",
+    "answer": "A waist of money!"
+  },
+  {
+    "question": "Why did the golfer wear two jackets?",
+    "answer": "In case he got a hole in one!"
+  },
+  {
+    "question": "What do you call a bear that cries a lot?",
+    "answer": "Winnie the Boo-hoo!"
+  },
+  {
+    "question": "Why did the farmer win an award?",
+    "answer": "He was outstanding in his field!"
+  },
+  {
+    "question": "What do you call a dinosaur that crashes cars?",
+    "answer": "Tyrannosaurus Wrecks!"
+  },
+  {
+    "question": "Why did the two antennas get married?",
+    "answer": "The ceremony wasn't great, but the reception was excellent!"
+  },
+  {
+    "question": "What do you call a man with a rubber toe?",
+    "answer": "Roberto!"
+  },
+  {
+    "question": "Why did the golfer bring a ladder?",
+    "answer": "To get to the next tee!"
+  },
+  {
+    "question": "What do you call a fish with two knees?",
+    "answer": "A two-knee fish!"
+  },
+  {
+    "question": "Why did the baker work late?",
+    "answer": "Because he kneaded the dough!"
+  },
+  {
+    "question": "What do you call a sleeping werewolf?",
+    "answer": "An unaware-wolf!"
+  },
+  {
+    "question": "Why did the opera singer go sailing?",
+    "answer": "She wanted to hit the high Cs!"
+  },
+  {
+    "question": "What do you call a cow that plays instruments?",
+    "answer": "A moo-sician!"
+  },
+  {
+    "question": "Why did the kid bring a ladder to the bar?",
+    "answer": "He heard the drinks were on the house!"
+  },
+  {
+    "question": "What do you call a girl with one leg?",
+    "answer": "Eileen!"
+  },
+  {
+    "question": "Why did the envelope get mad?",
+    "answer": "It got licked and stamped on!"
+  },
+  {
+    "question": "What do you call a rabbit who tells good jokes?",
+    "answer": "A funny bunny!"
+  },
+  {
+    "question": "Why did the traffic light turn red?",
+    "answer": "You would too if you had to change in public!"
+  },
+  {
+    "question": "What do you call a sheep with no head or legs?",
+    "answer": "A cloud!"
+  },
+  {
+    "question": "Why did the chicken go to the gym?",
+    "answer": "To work on its pecks!"
+  },
+  {
+    "question": "What do you call a prehistoric pig?",
+    "answer": "Jurassic Pork!"
+  },
+  {
+    "question": "Why did the man put wheels on his rocking chair?",
+    "answer": "He wanted to rock and roll!"
+  },
+  {
+    "question": "What do you call a rabbit in a kilt?",
+    "answer": "Hopscotch!"
+  },
+  {
+    "question": "Why did the belt get arrested?",
+    "answer": "For holding up a pair of pants!"
+  },
+  {
+    "question": "What do you call a dinosaur who's good with words?",
+    "answer": "Thesaurus Rex!"
+  },
+  {
+    "question": "Why did the shoe go to therapy?",
+    "answer": "It had too many issues to lace up!"
+  },
+  {
+    "question": "What do you call a deer with an attitude?",
+    "answer": "A rude-olph!"
+  },
+  {
+    "question": "Why did the orange go to the doctor?",
+    "answer": "It wasn't peeling very well!"
+  },
+  {
+    "question": "What do you call a broken can opener?",
+    "answer": "A can't opener!"
+  },
+  {
+    "question": "Why did the teddy bear say no to dessert?",
+    "answer": "Because she was stuffed!"
+  },
+  {
+    "question": "What do you call a boomerang that won't come back?",
+    "answer": "A stick!"
+  },
+  {
+    "question": "Why did the house go to the doctor?",
+    "answer": "It was having window pains!"
+  },
+  {
+    "question": "What do you call a cow that's just given birth?",
+    "answer": "Decalfinated!"
+  },
+  {
+    "question": "Why did the frog call his insurance company?",
+    "answer": "He had a jump in his car!"
+  },
+  {
+    "question": "What do you call a T-Rex who's been shopping?",
+    "answer": "Dino-sore!"
+  },
+  {
+    "question": "Why did the banana go out with a prune?",
+    "answer": "Because it couldn't find a date!"
+  },
+  {
+    "question": "What do you call a fish that's bad at basketball?",
+    "answer": "A flounder!"
+  },
+  {
+    "question": "Why did the duck say bang?",
+    "answer": "Because he was a firequacker!"
+  },
+  {
+    "question": "What do you call a deer who can't see?",
+    "answer": "No eye deer!"
+  },
+  {
+    "question": "Why did the coffee taste like mud?",
+    "answer": "Because it was just ground this morning!"
+  },
+  {
+    "question": "What do you call a snobbish criminal walking down stairs?",
+    "answer": "A condescending con descending!"
+  },
+  {
+    "question": "Why did the grape stop in the middle of the road?",
+    "answer": "It ran out of juice!"
+  },
+  {
+    "question": "What do you call a lion who's been to law school?",
+    "answer": "A legal beast!"
+  },
+  {
+    "question": "Why did the man fall in the well?",
+    "answer": "Because he couldn't see that well!"
+  },
+  {
+    "question": "What do you call a group of unorganized cats?",
+    "answer": "A cat-astrophe!"
+  },
+  {
+    "question": "Why did the computer squeak?",
+    "answer": "Someone stepped on its mouse!"
+  },
+  {
+    "question": "What do you call a dinosaur with no eyes?",
+    "answer": "Do-you-think-he-saw-us!"
+  },
+  {
+    "question": "Why did the scarecrow get a raise?",
+    "answer": "Because he was outstanding in his field!"
+  },
+  {
+    "question": "What do you call a sleeping dinosaur?",
+    "answer": "A dino-snore!"
+  },
+  {
+    "question": "Why did the bicycle quit?",
+    "answer": "It was two-tired!"
+  },
+  {
+    "question": "What do you call a cat that loves water?",
+    "answer": "An octopuss!"
+  },
+  {
+    "question": "Why did the pony get sent to his room?",
+    "answer": "He wouldn't stop horsing around!"
+  },
+  {
+    "question": "What do you call a deer in fog?",
+    "answer": "Mist-ery!"
+  },
+  {
+    "question": "Why did the mushroom go to the party alone?",
+    "answer": "Because he's a fungi!"
+  },
+  {
+    "question": "What do you call a bear in the Arctic?",
+    "answer": "An ice bear!"
+  },
+  {
+    "question": "Why did the chicken cross the road?",
+    "answer": "To prove he wasn't chicken!"
+  },
+  {
+    "question": "What do you call a cow with a sense of humor?",
+    "answer": "Laughing stock!"
+  },
+  {
+    "question": "Why did the tomato go out with the prune?",
+    "answer": "Because he couldn't find a date!"
+  },
+  {
+    "question": "What do you call a sleeping bag?",
+    "answer": "A nap-sack!"
+  },
+  {
+    "question": "Why did the lemon stop rolling?",
+    "answer": "It ran out of juice!"
+  },
+  {
+    "question": "What do you call a pile of leaves?",
+    "answer": "A leaf pile!"
+  },
+  {
+    "question": "Why did the fish blush?",
+    "answer": "Because it saw the ocean's bottom!"
+  },
+  {
+    "question": "What do you call a cat that lives in an igloo?",
+    "answer": "An eskimew!"
+  },
+  {
+    "question": "Why did the math book look worried?",
+    "answer": "Because it had too many problems!"
+  },
+  {
+    "question": "What do you call a bear that's always complaining?",
+    "answer": "A grizzly!"
+  },
+  {
+    "question": "Why did the ice cream truck break down?",
+    "answer": "There was a rocky road!"
+  },
+  {
+    "question": "What do you call a pig that does karate?",
+    "answer": "A pork chop!"
+  },
+  {
+    "question": "Why did the orange juice go to the gym?",
+    "answer": "To concentrate!"
+  },
+  {
+    "question": "What do you call a dog that's cold?",
+    "answer": "A chili dog!"
+  },
+  {
+    "question": "Why did the bicycle refuse to stand up?",
+    "answer": "It was two tired!"
+  },
+  {
+    "question": "What do you call a magician on a plane?",
+    "answer": "A flying sorcerer!"
+  },
+  {
+    "question": "Why did the mailbox get promoted?",
+    "answer": "It had great delivery!"
+  },
+  {
+    "question": "What do you call a cow that doesn't give milk?",
+    "answer": "A milk dud!"
+  },
+  {
+    "question": "Why did the banana refuse to fight?",
+    "answer": "Because it was yellow!"
+  },
+  {
+    "question": "What do you call a dog that meditates?",
+    "answer": "Aware wolf!"
+  },
+  {
+    "question": "Why did the skeleton go to the party?",
+    "answer": "To have a rattling good time!"
+  },
+  {
+    "question": "What do you call a mouse that can pick up an elephant?",
+    "answer": "Sir!"
+  },
+  {
+    "question": "Why did the golfer wear sunglasses?",
+    "answer": "Because his future was so bright!"
+  },
+  {
+    "question": "What do you call a train full of gum?",
+    "answer": "A chew-chew train!"
+  },
+  {
+    "question": "Why did the cookie visit the doctor?",
+    "answer": "He was feeling crumbly!"
+  },
+  {
+    "question": "What do you call a fly without wings?",
+    "answer": "A walk!"
+  },
+  {
+    "question": "Why did the chicken get a penalty?",
+    "answer": "For fowl play!"
+  },
+  {
+    "question": "What do you call a bear with no teeth?",
+    "answer": "A gummy bear!"
+  },
+  {
+    "question": "Why did the belt get locked up?",
+    "answer": "For holding up pants!"
+  },
+  {
+    "question": "What do you call a mountain that tells jokes?",
+    "answer": "Hill-arious!"
+  },
+  {
+    "question": "Why did the window go to school?",
+    "answer": "To get a pane education!"
+  },
+  {
+    "question": "What do you call a rabbit with fleas?",
+    "answer": "Bugs Bunny!"
+  },
+  {
+    "question": "Why did the banana go to the doctor?",
+    "answer": "It wasn't peeling well!"
+  },
+  {
+    "question": "What do you call a sleeping bull?",
+    "answer": "A bulldozer!"
+  },
+  {
+    "question": "Why did the fish get bad grades?",
+    "answer": "Because it was below C level!"
+  },
+  {
+    "question": "What do you call a snowman with a six-pack?",
+    "answer": "An abdominal snowman!"
+  },
+  {
+    "question": "Why did the man bring a pencil to bed?",
+    "answer": "To draw the curtains!"
+  },
+  {
+    "question": "What do you call a dinosaur that likes to sleep?",
+    "answer": "A stega-snore-us!"
+  },
+  {
+    "question": "Why did the clock in the cafeteria run slow?",
+    "answer": "It always went back four seconds!"
+  },
+  {
+    "question": "What do you call a dentist in the army?",
+    "answer": "A drill sergeant!"
+  },
+  {
+    "question": "Why did the cow jump over the moon?",
+    "answer": "The farmer had cold hands!"
+  },
+  {
+    "question": "What do you call a crab that plays baseball?",
+    "answer": "A pinch hitter!"
+  },
+  {
+    "question": "Why did the computer keep sneezing?",
+    "answer": "It had a virus!"
+  },
+  {
+    "question": "What do you call a bear in the rain?",
+    "answer": "A drizzly bear!"
+  },
+  {
+    "question": "Why did the football coach go to the bank?",
+    "answer": "To get his quarter back!"
+  },
+  {
+    "question": "What do you call a deer with no eyes and no legs?",
+    "answer": "Still no idea!"
+  },
+  {
+    "question": "Why did the orange get insurance?",
+    "answer": "It ran out of juice!"
+  },
+  {
+    "question": "What do you call a person who's afraid of elevators?",
+    "answer": "Uplifted!"
+  },
+  {
+    "question": "Why did the runner quit the race?",
+    "answer": "It was too long and he couldn't stand it!"
+  },
+  {
+    "question": "What do you call a dog that surfs?",
+    "answer": "A board collie!"
+  },
+  {
+    "question": "Why did the egg hide?",
+    "answer": "It was a little chicken!"
+  },
+  {
+    "question": "What do you call a cow that works for a gardener?",
+    "answer": "A lawn moo-er!"
+  },
+  {
+    "question": "Why did the music teacher need a ladder?",
+    "answer": "To reach the high notes!"
+  },
+  {
+    "question": "What do you call a cold dog?",
+    "answer": "A pup-sicle!"
+  },
+  {
+    "question": "Why did the golfer take an extra pair of socks?",
+    "answer": "In case he got a hole in one!"
+  },
+  {
+    "question": "What do you call a belt with a watch?",
+    "answer": "A waist of time!"
+  },
+  {
+    "question": "Why did the student bring a ladder to class?",
+    "answer": "To go to high school!"
+  },
+  {
+    "question": "What do you call a fake noodle?",
+    "answer": "An impasta!"
+  },
+  {
+    "question": "Why did the cookie go to the nurse?",
+    "answer": "Because he felt crummy!"
+  },
+  {
+    "question": "What do you call a sleeping dinosaur?",
+    "answer": "A dino-snore!"
+  },
+  {
+    "question": "Why did the scarecrow become successful?",
+    "answer": "He was outstanding in his field!"
+  },
+  {
+    "question": "What do you call a monkey that eats potato chips?",
+    "answer": "A chipmonk!"
+  },
+  {
+    "question": "Why did the banana see the doctor?",
+    "answer": "It wasn't peeling well!"
+  },
+  {
+    "question": "What do you call a dog magician?",
+    "answer": "A labracadabrador!"
+  },
+  {
+    "question": "Why did the picture go to prison?",
+    "answer": "Because it was framed!"
+  },
+  {
+    "question": "What do you call a fish wearing a tuxedo?",
+    "answer": "Sofishticated!"
+  },
+  {
+    "question": "Why did the chicken cross the road twice?",
+    "answer": "Because he was a double crosser!"
+  },
+  {
+    "question": "What do you call a bear with no ears?",
+    "answer": "B!"
+  },
+  {
+    "question": "Why did the tree go to the dentist?",
+    "answer": "To get a root canal!"
+  },
+  {
+    "question": "What do you call a parade of bunnies?",
+    "answer": "A receding hare line!"
+  },
+  {
+    "question": "Why did the coffee call 911?",
+    "answer": "It got mugged!"
+  },
+  {
+    "question": "What do you call a lazy kangaroo?",
+    "answer": "A pouch potato!"
+  },
+  {
+    "question": "Why did the skeleton not dance?",
+    "answer": "He had no body to dance with!"
+  },
+  {
+    "question": "What do you call a snowman in the summer?",
+    "answer": "A puddle!"
+  },
+  {
+    "question": "Why did the cheese blush?",
+    "answer": "It saw the salad dressing!"
+  },
+  {
+    "question": "What do you call a bear stuck in the rain?",
+    "answer": "A drizzly bear!"
+  },
+  {
+    "question": "Why did the bicycle stand by itself?",
+    "answer": "Because it was two tired!"
+  },
+  {
+    "question": "What do you call a cat that bowls?",
+    "answer": "An alley cat!"
+  },
+  {
+    "question": "Why did the tomato blush?",
+    "answer": "It saw the salad dressing!"
+  },
+  {
+    "question": "What do you call a sleeping bag?",
+    "answer": "A knapsack!"
+  },
+  {
+    "question": "Why did the scarecrow win a prize?",
+    "answer": "He was outstanding in his field!"
+  },
+  {
+    "question": "What do you call a pig that knows karate?",
+    "answer": "A pork chop!"
+  },
+  {
+    "question": "Why did the moon skip breakfast?",
+    "answer": "Because it was too full!"
+  },
+  {
+    "question": "What do you call a fish that practices medicine?",
+    "answer": "A sturgeon!"
+  },
+  {
+    "question": "Why did the grape stop?",
+    "answer": "It ran out of juice!"
+  },
+  {
+    "question": "What do you call a cow with a twitch?",
+    "answer": "Beef jerky!"
+  },
+  {
+    "question": "Why did the melon jump into the lake?",
+    "answer": "It wanted to be a watermelon!"
+  },
+  {
+    "question": "What do you call a deer that costs a dollar?",
+    "answer": "A buck!"
+  },
+  {
+    "question": "Why did the donut go to the dentist?",
+    "answer": "It needed a chocolate filling!"
+  },
+  {
+    "question": "What do you call a sheep that does karate?",
+    "answer": "A lamb chop!"
+  },
+  {
+    "question": "Why did the chicken join a band?",
+    "answer": "Because it already had drumsticks!"
+  },
+  {
+    "question": "What do you call a dinosaur crash?",
+    "answer": "Tyrannosaurus Wrecks!"
+  },
+  {
+    "question": "Why did the mushroom get invited to all the parties?",
+    "answer": "Because he was a fungi!"
+  },
+  {
+    "question": "What do you call a horse that lives next door?",
+    "answer": "A neigh-bor!"
+  },
+  {
+    "question": "Why did the stadium get warm?",
+    "answer": "All the fans left!"
+  },
+  {
+    "question": "What do you call a rabbit who tells jokes?",
+    "answer": "A funny bunny!"
+  },
+  {
+    "question": "Why did the computer get cold?",
+    "answer": "It left its Windows open!"
+  },
+  {
+    "question": "What do you call a bear with no socks?",
+    "answer": "Barefoot!"
+  },
+  {
+    "question": "Why did the belt go to jail?",
+    "answer": "For holding up pants!"
+  },
+  {
+    "question": "What do you call a cow that eats your grass?",
+    "answer": "A lawn moo-er!"
+  },
+  {
+    "question": "Why did the banana go out with a fig?",
+    "answer": "Because he couldn't find a date!"
+  },
+  {
+    "question": "What do you call a dinosaur with one eye?",
+    "answer": "Do-you-think-he-saw-us!"
+  },
+  {
+    "question": "Why did the frog take the bus?",
+    "answer": "His car got toad!"
+  },
+  {
+    "question": "What do you call a sheep covered in chocolate?",
+    "answer": "A candy baa!"
+  },
+  {
+    "question": "Why did the house go to the therapist?",
+    "answer": "It had window panes!"
+  },
+  {
+    "question": "What do you call a magic dog?",
+    "answer": "A labracadabrador!"
+  },
+  {
+    "question": "Why did the calendar see the doctor?",
+    "answer": "Its days were numbered!"
+  },
+  {
+    "question": "What do you call a boomerang that doesn't come back?",
+    "answer": "A stick!"
+  },
+  {
+    "question": "Why did the orange stop rolling?",
+    "answer": "It ran out of juice!"
+  },
+  {
+    "question": "What do you call an alligator wearing a vest?",
+    "answer": "An investigator!"
+  },
+  {
+    "question": "Why did the chicken go to KFC?",
+    "answer": "To see a chicken strip!"
+  },
+  {
+    "question": "What do you call a pile of kittens?",
+    "answer": "A meowntain!"
+  },
+  {
+    "question": "Why did the nose not want to go to school?",
+    "answer": "It was tired of getting picked on!"
+  },
+  {
+    "question": "What do you call a sleeping pizza?",
+    "answer": "A piZZZa!"
+  },
+  {
+    "question": "Why did the skeleton go to the BBQ?",
+    "answer": "To get some spare ribs!"
+  },
+  {
+    "question": "What do you call a cow that's just given birth?",
+    "answer": "De-calf-inated!"
+  },
+  {
+    "question": "Why did the golfer bring two pairs of pants?",
+    "answer": "In case he got a hole in one!"
+  },
+  {
+    "question": "What do you call a fish that's bad at basketball?",
+    "answer": "A flounder!"
+  },
+  {
+    "question": "Why did the coffee go to therapy?",
+    "answer": "It couldn't espresso its feelings!"
+  },
+  {
+    "question": "What do you call a bear in winter?",
+    "answer": "A brrr!"
+  },
+  {
+    "question": "Why did the robot go to the beach?",
+    "answer": "To get a tan!"
+  },
+  {
+    "question": "What do you call a llama with no legs?",
+    "answer": "A llama-carpet!"
+  },
+  {
+    "question": "Why did the lettuce win the race?",
+    "answer": "Because it was a head!"
+  },
+  {
+    "question": "What do you call a fly with no wings?",
+    "answer": "A walk!"
+  },
+  {
+    "question": "Why did the bicycle want to rest?",
+    "answer": "It was two tired!"
+  },
+  {
+    "question": "What do you call a group of musical killer whales?",
+    "answer": "An orca-stra!"
+  },
+  {
+    "question": "Why did the cookie visit the hospital?",
+    "answer": "It felt crumbly!"
+  },
+  {
+    "question": "What do you call a rabbit that's raised indoors?",
+    "answer": "An ingrown hare!"
+  },
+  {
+    "question": "Why did the computer go to the beach?",
+    "answer": "To surf the net!"
+  },
+  {
+    "question": "What do you call a sleeping T-Rex?",
+    "answer": "A dino-snore!"
+  },
+  {
+    "question": "Why did the scarecrow get a promotion?",
+    "answer": "He was outstanding in his field!"
+  },
+  {
+    "question": "What do you call a deer with no eyes and no legs?",
+    "answer": "Still no idea!"
+  },
+  {
+    "question": "Why did the egg go to school?",
+    "answer": "To get egg-ucated!"
+  },
+  {
+    "question": "What do you call a cow that just had a baby?",
+    "answer": "Decalfinated!"
+  },
+  {
+    "question": "Why did the man throw butter out the window?",
+    "answer": "To see a butter-fly!"
+  },
+  {
+    "question": "What do you call a train that sneezes?",
+    "answer": "Achoo-choo train!"
+  },
+  {
+    "question": "Why did the chicken cross the playground?",
+    "answer": "To get to the other slide!"
+  },
+  {
+    "question": "What do you call a bear stuck in the wind?",
+    "answer": "A windy bear!"
+  },
+  {
+    "question": "Why did the tomato freeze?",
+    "answer": "It saw the salad dressing!"
+  },
+  {
+    "question": "What do you call a fake noodle?",
+    "answer": "An impasta!"
+  },
+  {
+    "question": "Why did the golfer need new pants?",
+    "answer": "He got a hole in one!"
+  },
+  {
+    "question": "What do you call a lazy doctor?",
+    "answer": "Dr. Doo-little!"
+  },
+  {
+    "question": "Why did the smartphone go to school?",
+    "answer": "To improve its reception!"
+  },
+  {
+    "question": "What do you call an apology written in dots and dashes?",
+    "answer": "Re-morse code!"
+  },
+  {
+    "question": "Why did the banana go to the salon?",
+    "answer": "It had split ends!"
+  },
+  {
+    "question": "What do you call a belt made of watches?",
+    "answer": "A waist of time!"
+  },
+  {
+    "question": "Why did the skeleton climb a tree?",
+    "answer": "Because a dog was after its bones!"
+  },
+  {
+    "question": "What do you call a dog that loves car rides?",
+    "answer": "A car-pet!"
+  },
+  {
+    "question": "Why did the boy sprinkle sugar on his pillow?",
+    "answer": "He wanted sweet dreams!"
+  },
+  {
+    "question": "What do you call a cat that swallowed a duck?",
+    "answer": "A duck-filled fatty puss!"
+  },
+  {
+    "question": "Why did the golfer bring an extra shirt?",
+    "answer": "In case he got a hole in one!"
+  },
+  {
+    "question": "What do you call a shoe made out of a banana?",
+    "answer": "A slipper!"
+  },
+  {
+    "question": "Why did the tree go online?",
+    "answer": "To log in!"
+  },
+  {
+    "question": "What do you call a sleeping bull?",
+    "answer": "A bulldozer!"
+  },
+  {
+    "question": "Why did the math student hate negative numbers?",
+    "answer": "They'll stop at nothing!"
+  },
+  {
+    "question": "What do you call a fish that wears glasses?",
+    "answer": "A see-food!"
+  },
+  {
+    "question": "Why did the orange juice fail the test?",
+    "answer": "It couldn't concentrate!"
+  },
+  {
+    "question": "What do you call a dog that's been left in the cold?",
+    "answer": "A pup-sicle!"
+  },
+  {
+    "question": "Why did the cookie go to space?",
+    "answer": "To see the Milky Way!"
+  },
+  {
+    "question": "What do you call a bear with extreme mood swings?",
+    "answer": "A bi-polar bear!"
+  },
+  {
+    "question": "Why did the musician get kicked out of the band?",
+    "answer": "He was always out of tune-a!"
+  },
+  {
+    "question": "What do you call a fish that needs help singing?",
+    "answer": "Autotuna!"
+  },
+  {
+    "question": "Why did the chicken cross the internet?",
+    "answer": "To get to the other site!"
+  },
+  {
+    "question": "What do you call a can opener that's broken?",
+    "answer": "A can't opener!"
+  },
+  {
+    "question": "Why did the bicycle refuse to move?",
+    "answer": "It was two tired!"
+  },
+  {
+    "question": "What do you call an angry carrot?",
+    "answer": "A steamed veggie!"
+  },
+  {
+    "question": "Why did the man bring a car door to the desert?",
+    "answer": "So he could roll down the window when it got hot!"
+  },
+  {
+    "question": "What do you call a grumpy cow?",
+    "answer": "Moo-dy!"
+  },
+  {
+    "question": "Why did the teddy bear skip dessert?",
+    "answer": "She was already stuffed!"
+  },
+  {
+    "question": "What do you call a snowman with a great personality?",
+    "answer": "A snow-body special!"
+  },
+  {
+    "question": "Why did the scarecrow get an award?",
+    "answer": "Because he was outstanding in his field!"
+  },
+  {
+    "question": "What do you call a pile of cats?",
+    "answer": "A meowtain!"
+  },
+  {
+    "question": "Why did the banana visit the doctor?",
+    "answer": "It wasn't peeling well!"
+  },
+  {
+    "question": "What do you call a deer with no eyes?",
+    "answer": "No idea!"
+  },
+  {
+    "question": "Why did the coffee file a police report?",
+    "answer": "It got mugged!"
+  },
+  {
+    "question": "What do you call a sleeping bag?",
+    "answer": "A nap sack!"
+  },
+  {
+    "question": "Why did the computer show up to work late?",
+    "answer": "It had a hard drive!"
+  },
+  {
+    "question": "What do you call a dinosaur that loves to sleep?",
+    "answer": "A stega-snore-us!"
+  },
+  {
+    "question": "Why did the belt get sent to prison?",
+    "answer": "For holding up a pair of pants!"
+  },
+  {
+    "question": "What do you call a group of bunnies hopping backwards?",
+    "answer": "A receding hare-line!"
+  },
+  {
+    "question": "Why did the skeleton refuse to bungee jump?",
+    "answer": "He didn't have the guts!"
+  },
+  {
+    "question": "What do you call a cow in an earthquake?",
+    "answer": "A milkshake!"
+  },
+  {
+    "question": "Why did the chicken go to the séance?",
+    "answer": "To talk to the other side!"
+  },
+  {
+    "question": "What do you call a pig that does karate?",
+    "answer": "A pork chop!"
+  },
+  {
+    "question": "Why did the golfer wear two pairs of pants?",
+    "answer": "In case he got a hole in one!"
+  },
+  {
+    "question": "What do you call a bear with no teeth?",
+    "answer": "A gummy bear!"
+  },
+  {
+    "question": "Why did the orange stop in the middle of the road?",
+    "answer": "It ran out of juice!"
+  },
+  {
+    "question": "What do you call an alligator in a vest?",
+    "answer": "An investigator!"
+  },
+  {
+    "question": "Why did the mushroom go to the party?",
+    "answer": "Because he was a fungi!"
+  },
+  {
+    "question": "What do you call a fish wearing a bow tie?",
+    "answer": "Sofishticated!"
+  },
+  {
+    "question": "Why did the cookie cry?",
+    "answer": "His mom was a wafer so long!"
+  },
+  {
+    "question": "What do you call cheese that's not yours?",
+    "answer": "Nacho cheese!"
+  },
+  {
+    "question": "Why did the bicycle fall down?",
+    "answer": "It was two tired!"
+  },
+  {
+    "question": "What do you call a sleeping dinosaur?",
+    "answer": "A dino-snore!"
+  },
+  {
+    "question": "Why did the scarecrow become a successful entrepreneur?",
+    "answer": "He was outstanding in his field!"
+  },
+  {
+    "question": "What do you call a parade of rabbits hopping backwards?",
+    "answer": "A receding hare-line!"
+  },
+  {
+    "question": "Why did the calendar go to therapy?",
+    "answer": "Its days were numbered!"
+  },
+  {
+    "question": "What do you call a lazy kangaroo?",
+    "answer": "A pouch potato!"
+  },
+  {
+    "question": "Why did the picture frame go to jail?",
+    "answer": "It was framed!"
+  },
+  {
+    "question": "What do you call a dog magician?",
+    "answer": "A labracadabrador!"
+  },
+  {
+    "question": "Why did the tree go to the barber?",
+    "answer": "It needed a trim!"
+  },
+  {
+    "question": "What do you call a belt made of watches?",
+    "answer": "A waist of time!"
+  },
+  {
+    "question": "Why did the stadium get hot after the game?",
+    "answer": "All of the fans left!"
+  },
+  {
+    "question": "What do you call a snowman with a six-pack?",
+    "answer": "An abdominal snowman!"
+  }
+]
