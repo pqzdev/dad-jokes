@@ -52,10 +52,11 @@ header {
     transform: rotate(0deg);
     transition: transform 0.3s ease;
     border: 5px solid #ffeaa7;
+    --tilt-direction: 1;
 }
 
 .joke-card.tilted {
-    transform: rotate(-2deg);
+    transform: rotate(calc(-2deg * var(--tilt-direction)));
 }
 
 .joke-content {
@@ -109,41 +110,46 @@ header {
     pointer-events: auto;
 }
 
-.rating-prompt {
-    font-size: 1rem;
-    color: #636e72;
-    margin-bottom: 10px;
-    font-weight: 600;
-}
-
 .rating-buttons {
     display: flex;
-    gap: 15px;
+    gap: 20px;
     justify-content: center;
 }
 
 .rating-btn {
-    font-size: 2.5rem;
+    font-size: 3rem;
     background: none;
     border: none;
     cursor: pointer;
     transition: all 0.2s ease;
-    padding: 5px 15px;
-    border-radius: 10px;
+    padding: 5px;
+    position: relative;
+}
+
+.rating-btn .icon-outline {
+    display: inline;
+    opacity: 1;
+    transition: opacity 0.2s ease;
+}
+
+.rating-btn .icon-filled {
+    display: none;
 }
 
 .rating-btn:hover {
     transform: scale(1.2);
-    background: rgba(255, 234, 167, 0.3);
 }
 
 .rating-btn:active {
     transform: scale(1.1);
 }
 
-.rating-btn.selected {
-    background: rgba(255, 234, 167, 0.6);
-    transform: scale(1.15);
+.rating-btn.selected .icon-outline {
+    display: none;
+}
+
+.rating-btn.selected .icon-filled {
+    display: inline;
 }
 
 .button-container {

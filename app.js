@@ -1,7 +1,7 @@
 let jokes = [];
 let currentJoke = null;
 let answerRevealed = false;
-let ratings = {};
+let currentTiltDirection = 1; // 1 for right, -1 for left
 
 // DOM elements
 const questionEl = document.getElementById('question');
@@ -14,30 +14,21 @@ const ratingSection = document.getElementById('rating-section');
 const thumbsUpBtn = document.getElementById('thumbs-up');
 const thumbsDownBtn = document.getElementById('thumbs-down');
 
+// API URL - works both locally and on Cloudflare Pages
+const API_BASE = window.location.hostname === 'localhost'
+  ? 'http://localhost:8787'
+  : '';
+
 // Load jokes from JSON file
 async function loadJokes() {
     try {
         const response = await fetch('jokes.json');
         jokes = await response.json();
-        loadRatings();
         showNewJoke();
     } catch (error) {
         questionEl.textContent = 'Oops! Failed to load jokes. Please refresh the page.';
         console.error('Error loading jokes:', error);
     }
-}
-
-// Load ratings from localStorage
-function loadRatings() {
-    const saved = localStorage.getItem('dadJokeRatings');
-    if (saved) {
-        ratings = JSON.parse(saved);
-    }
-}
-
-// Save ratings to localStorage
-function saveRatings() {
-    localStorage.setItem('dadJokeRatings', JSON.stringify(ratings));
 }
 
 // Create a unique key for each joke
@@ -51,8 +42,40 @@ function getRandomJoke() {
     return jokes[randomIndex];
 }
 
+// Fetch rating from API
+async function fetchRating(jokeKey) {
+    try {
+        const response = await fetch(`${API_BASE}/api/rating?joke_key=${encodeURIComponent(jokeKey)}`);
+        if (response.ok) {
+            return await response.json();
+        }
+    } catch (error) {
+        console.error('Error fetching rating:', error);
+    }
+    return { thumbs_up: 0, thumbs_down: 0, user_rating: null };
+}
+
+// Submit rating to API
+async function submitRating(jokeKey, rating) {
+    try {
+        const response = await fetch(`${API_BASE}/api/rating?joke_key=${encodeURIComponent(jokeKey)}`, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ rating })
+        });
+        if (response.ok) {
+            return await response.json();
+        }
+    } catch (error) {
+        console.error('Error submitting rating:', error);
+    }
+    return null;
+}
+
 // Show a new joke
-function showNewJoke() {
+async function showNewJoke() {
     currentJoke = getRandomJoke();
     questionEl.textContent = currentJoke.question;
     answerEl.textContent = currentJoke.answer;
@@ -64,50 +87,57 @@ function showNewJoke() {
     // Clear rating selection
     thumbsUpBtn.classList.remove('selected');
     thumbsDownBtn.classList.remove('selected');
+
+    // Set random tilt direction for next hover
+    currentTiltDirection = Math.random() < 0.5 ? -1 : 1;
+    jokeCard.style.setProperty('--tilt-direction', currentTiltDirection);
 }
 
 // Reveal the answer
-function revealAnswer() {
+async function revealAnswer() {
     if (!answerRevealed) {
         answerEl.classList.add('show');
         ratingSection.classList.add('show');
         answerRevealed = true;
         revealBtn.disabled = true;
 
-        // Show existing rating if available
+        // Fetch and show existing rating if available
         const jokeKey = getJokeKey(currentJoke);
-        if (ratings[jokeKey] === 'up') {
+        const ratingData = await fetchRating(jokeKey);
+
+        if (ratingData.user_rating === 'up') {
             thumbsUpBtn.classList.add('selected');
-        } else if (ratings[jokeKey] === 'down') {
+        } else if (ratingData.user_rating === 'down') {
             thumbsDownBtn.classList.add('selected');
         }
     }
 }
 
 // Rate joke
-function rateJoke(rating) {
+async function rateJoke(rating) {
     if (!currentJoke || !answerRevealed) return;
 
     const jokeKey = getJokeKey(currentJoke);
 
-    // Toggle rating
-    if (ratings[jokeKey] === rating) {
-        delete ratings[jokeKey];
-        thumbsUpBtn.classList.remove('selected');
-        thumbsDownBtn.classList.remove('selected');
-    } else {
-        ratings[jokeKey] = rating;
+    // Determine if we're toggling off
+    const currentlySelected =
+        (rating === 'up' && thumbsUpBtn.classList.contains('selected')) ||
+        (rating === 'down' && thumbsDownBtn.classList.contains('selected'));
+
+    // Submit to API
+    const result = await submitRating(jokeKey, currentlySelected ? null : rating);
+
+    if (result) {
+        // Update UI based on result
         thumbsUpBtn.classList.remove('selected');
         thumbsDownBtn.classList.remove('selected');
 
-        if (rating === 'up') {
+        if (result.user_rating === 'up') {
             thumbsUpBtn.classList.add('selected');
-        } else {
+        } else if (result.user_rating === 'down') {
             thumbsDownBtn.classList.add('selected');
         }
     }
-
-    saveRatings();
 }
 
 // Hover tilt effect

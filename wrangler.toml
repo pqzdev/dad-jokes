@@ -1,0 +1,13 @@
+name = "dad-jokes"
+main = "worker.js"
+compatibility_date = "2024-11-01"
+
+[env.production]
+routes = [
+  { pattern = "dad-jokes.pages.dev/api/*", custom_domain = false }
+]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "dad-jokes-ratings"
+database_id = "3fe465ca-ff86-4914-9206-7962f2a8c9ce"
