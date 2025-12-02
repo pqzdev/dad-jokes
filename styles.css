@@ -117,27 +117,33 @@ header {
 }
 
 .rating-btn {
-    font-size: 3rem;
+    font-size: 2.5rem;
     background: none;
     border: none;
     cursor: pointer;
     transition: all 0.2s ease;
-    padding: 5px;
+    padding: 10px 15px;
     position: relative;
+    color: #636e72;
 }
 
 .rating-btn .icon-outline {
-    display: inline;
-    opacity: 1;
-    transition: opacity 0.2s ease;
+    display: inline-block;
+    transition: all 0.2s ease;
 }
 
 .rating-btn .icon-filled {
     display: none;
 }
 
-.rating-btn:hover {
+.rating-btn.thumbs-up:hover {
     transform: scale(1.2);
+    color: #00b894;
+}
+
+.rating-btn.thumbs-down:hover {
+    transform: scale(1.2);
+    color: #d63031;
 }
 
 .rating-btn:active {
@@ -149,7 +155,15 @@ header {
 }
 
 .rating-btn.selected .icon-filled {
-    display: inline;
+    display: inline-block;
+}
+
+.rating-btn.thumbs-up.selected {
+    color: #00b894;
+}
+
+.rating-btn.thumbs-down.selected {
+    color: #d63031;
 }
 
 .button-container {
