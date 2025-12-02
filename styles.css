@@ -49,13 +49,13 @@ header {
     padding: 40px;
     box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
     margin-bottom: 30px;
-    transform: rotate(1deg);
+    transform: rotate(0deg);
     transition: transform 0.3s ease;
     border: 5px solid #ffeaa7;
 }
 
-.joke-card:hover {
-    transform: rotate(0deg) scale(1.02);
+.joke-card.tilted {
+    transform: rotate(-2deg);
 }
 
 .joke-content {
@@ -92,6 +92,58 @@ header {
 .answer.show {
     opacity: 1;
     transform: translateY(0);
+}
+
+.rating-section {
+    margin-top: 20px;
+    text-align: center;
+    opacity: 0;
+    transform: translateY(-10px);
+    transition: all 0.5s ease 0.3s;
+    pointer-events: none;
+}
+
+.rating-section.show {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
+}
+
+.rating-prompt {
+    font-size: 1rem;
+    color: #636e72;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.rating-buttons {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+
+.rating-btn {
+    font-size: 2.5rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    padding: 5px 15px;
+    border-radius: 10px;
+}
+
+.rating-btn:hover {
+    transform: scale(1.2);
+    background: rgba(255, 234, 167, 0.3);
+}
+
+.rating-btn:active {
+    transform: scale(1.1);
+}
+
+.rating-btn.selected {
+    background: rgba(255, 234, 167, 0.6);
+    transform: scale(1.15);
 }
 
 .button-container {

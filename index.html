@@ -16,16 +16,23 @@
             <p class="subtitle">Warning: Eye-rolling guaranteed!</p>
         </header>
 
-        <div class="joke-card">
+        <div class="joke-card" id="joke-card">
             <div class="joke-content">
                 <p class="question" id="question">Click the button to get a dad joke!</p>
                 <div class="answer-section" id="answer-section">
                     <p class="answer" id="answer"></p>
                 </div>
+                <div class="rating-section" id="rating-section">
+                    <p class="rating-prompt">How was this joke?</p>
+                    <div class="rating-buttons">
+                        <button class="rating-btn thumbs-up" id="thumbs-up" aria-label="Thumbs up">👍</button>
+                        <button class="rating-btn thumbs-down" id="thumbs-down" aria-label="Thumbs down">👎</button>
+                    </div>
+                </div>
             </div>
         </div>
 
-        <div class="button-container">
+        <div class="button-container" id="button-container">
             <button class="btn btn-reveal" id="reveal-btn">Show Answer</button>
             <button class="btn btn-new" id="new-joke-btn">New Joke</button>
         </div>
