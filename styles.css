@@ -136,12 +136,12 @@ header {
     display: none;
 }
 
-.rating-btn.thumbs-up:hover {
+.rating-btn.thumbs-up:hover:not(.selected) {
     transform: scale(1.2);
     color: #00b894;
 }
 
-.rating-btn.thumbs-down:hover {
+.rating-btn.thumbs-down:hover:not(.selected) {
     transform: scale(1.2);
     color: #d63031;
 }
@@ -159,11 +159,19 @@ header {
 }
 
 .rating-btn.thumbs-up.selected {
-    color: #00b894;
+    color: #00b894 !important;
+}
+
+.rating-btn.thumbs-up.selected:hover {
+    transform: scale(1.2);
 }
 
 .rating-btn.thumbs-down.selected {
-    color: #d63031;
+    color: #d63031 !important;
+}
+
+.rating-btn.thumbs-down.selected:hover {
+    transform: scale(1.2);
 }
 
 .button-container {
