@@ -124,6 +124,9 @@ header {
     transition: all 0.2s ease;
     padding: 10px 15px;
     position: relative;
+}
+
+.rating-btn:not(.selected) {
     color: #636e72;
 }
 
