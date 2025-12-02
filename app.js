@@ -132,19 +132,35 @@ async function rateJoke(rating) {
         (rating === 'up' && thumbsUpBtn.classList.contains('selected')) ||
         (rating === 'down' && thumbsDownBtn.classList.contains('selected'));
 
-    // Submit to API
-    const result = await submitRating(jokeKey, currentlySelected ? null : rating);
+    // Update UI immediately for better responsiveness
+    thumbsUpBtn.classList.remove('selected');
+    thumbsDownBtn.classList.remove('selected');
 
-    if (result) {
-        // Update UI based on result
-        thumbsUpBtn.classList.remove('selected');
-        thumbsDownBtn.classList.remove('selected');
+    const newRating = currentlySelected ? null : rating;
 
-        if (result.user_rating === 'up') {
-            thumbsUpBtn.classList.add('selected');
-        } else if (result.user_rating === 'down') {
-            thumbsDownBtn.classList.add('selected');
+    if (newRating === 'up') {
+        thumbsUpBtn.classList.add('selected');
+    } else if (newRating === 'down') {
+        thumbsDownBtn.classList.add('selected');
+    }
+
+    // Submit to API in background
+    try {
+        const result = await submitRating(jokeKey, newRating);
+
+        // Sync with server response if different
+        if (result) {
+            thumbsUpBtn.classList.remove('selected');
+            thumbsDownBtn.classList.remove('selected');
+
+            if (result.user_rating === 'up') {
+                thumbsUpBtn.classList.add('selected');
+            } else if (result.user_rating === 'down') {
+                thumbsDownBtn.classList.add('selected');
+            }
         }
+    } catch (error) {
+        console.log('Rating saved locally (API unavailable)');
     }
 }
 
