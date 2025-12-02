@@ -6,8 +6,7 @@ let currentTiltDirection = 1; // 1 for right, -1 for left
 // DOM elements
 const questionEl = document.getElementById('question');
 const answerEl = document.getElementById('answer');
-const revealBtn = document.getElementById('reveal-btn');
-const newJokeBtn = document.getElementById('new-joke-btn');
+const mainBtn = document.getElementById('main-btn');
 const jokeCard = document.getElementById('joke-card');
 const buttonContainer = document.getElementById('button-container');
 const ratingSection = document.getElementById('rating-section');
@@ -82,7 +81,7 @@ async function showNewJoke() {
     answerEl.classList.remove('show');
     ratingSection.classList.remove('show');
     answerRevealed = false;
-    revealBtn.disabled = false;
+    mainBtn.textContent = 'Show Answer';
 
     // Clear rating selection
     thumbsUpBtn.classList.remove('selected');
@@ -99,7 +98,7 @@ async function revealAnswer() {
         answerEl.classList.add('show');
         ratingSection.classList.add('show');
         answerRevealed = true;
-        revealBtn.disabled = true;
+        mainBtn.textContent = 'Next Joke';
 
         // Fetch and show existing rating if available
         const jokeKey = getJokeKey(currentJoke);
@@ -110,6 +109,15 @@ async function revealAnswer() {
         } else if (ratingData.user_rating === 'down') {
             thumbsDownBtn.classList.add('selected');
         }
+    }
+}
+
+// Main button handler
+function handleMainButton() {
+    if (!answerRevealed) {
+        revealAnswer();
+    } else {
+        showNewJoke();
     }
 }
 
@@ -150,8 +158,7 @@ function removeTilt() {
 }
 
 // Event listeners
-revealBtn.addEventListener('click', revealAnswer);
-newJokeBtn.addEventListener('click', showNewJoke);
+mainBtn.addEventListener('click', handleMainButton);
 thumbsUpBtn.addEventListener('click', () => rateJoke('up'));
 thumbsDownBtn.addEventListener('click', () => rateJoke('down'));
 
@@ -161,14 +168,11 @@ jokeCard.addEventListener('mouseleave', removeTilt);
 buttonContainer.addEventListener('mouseenter', addTilt);
 buttonContainer.addEventListener('mouseleave', removeTilt);
 
-// Allow Enter key to reveal answer or get new joke
-document.addEventListener('keypress', (e) => {
-    if (e.key === 'Enter') {
-        if (!answerRevealed) {
-            revealAnswer();
-        } else {
-            showNewJoke();
-        }
+// Allow Enter or Space key to progress
+document.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault(); // Prevent space from scrolling
+        handleMainButton();
     }
 });
 
